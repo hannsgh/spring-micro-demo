@@ -1,4 +1,4 @@
-package ru.hanns.micro.demo.eurekaserver;
+package ru.hannsgh.micro.demo.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
