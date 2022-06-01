@@ -1,4 +1,4 @@
-package ru.hannsgh.eurekaclient.controller;
+package ru.hannsgh.eurekaclient2.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
